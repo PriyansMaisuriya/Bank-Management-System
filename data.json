@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "priyans",
+        "Age": 19,
+        "Email": "priyans@gmail.com",
+        "Pin": 1608,
+        "AccountNo.": "!U9G87w",
+        "Balance": 5000
+    },
+    {
+        "Name": "Nish",
+        "Age": 21,
+        "Email": "n@gmail.com",
+        "Pin": 8706,
+        "AccountNo.": "1t5@K8x",
+        "Balance": 0
+    },
+    {
+        "Name": "om",
+        "Age": 20,
+        "Email": "ompatel@gmail.com",
+        "Pin": 1326,
+        "AccountNo.": "k340Ge!",
+        "Balance": 5000
+    },
+    {
+        "Name": "jay",
+        "Age": 19,
+        "Email": "jay@gmail.com",
+        "Pin": 2345,
+        "AccountNo.": "1796800306",
+        "Balance": 0
+    },
+    {
+        "Name": "xgs",
+        "Age": 24,
+        "Email": "xyz@gmail.com",
+        "Pin": "1234",
+        "AccountNo.": "8476532129",
+        "Balance": 0
+    }
+]
