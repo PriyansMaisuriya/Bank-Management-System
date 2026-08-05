@@ -24,19 +24,27 @@
         "Balance": 5000
     },
     {
-        "Name": "jay",
-        "Age": 19,
-        "Email": "jay@gmail.com",
-        "Pin": 2345,
-        "AccountNo.": "1796800306",
-        "Balance": 0
-    },
-    {
         "Name": "xgs",
         "Age": 24,
         "Email": "xyz@gmail.com",
         "Pin": "1234",
         "AccountNo.": "8476532129",
+        "Balance": 0
+    },
+    {
+        "Name": "Harsh",
+        "Age": 20,
+        "Email": "harsh@gmail.com",
+        "Pin": 1809,
+        "AccountNo.": "8550493382",
+        "Balance": 3000
+    },
+    {
+        "Name": "jagesh",
+        "Age": 19,
+        "Email": "jagesh@gmail.com",
+        "Pin": 1608,
+        "AccountNo.": "4759273344",
         "Balance": 0
     }
 ]
