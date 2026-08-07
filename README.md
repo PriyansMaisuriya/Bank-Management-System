@@ -225,7 +225,7 @@ B.Sc. Information Technology Student
 Aspiring Data Scientist & Python Developer
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/PriyansMaisuriya
 
 ---
 
